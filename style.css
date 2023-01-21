@@ -170,7 +170,7 @@
 }
 .materialTittle {
   top: 14%;
-  position: fixed;
+  position: relative;
   margin-left: 15px;
 }
 .orTittle {
@@ -181,7 +181,7 @@
 
 .serviceTittle {
   top: 14%;
-  position: fixed;
+  position: relative;
   margin-left: 15px;
 }
 
