@@ -171,7 +171,7 @@
 .materialTittle {
   top: -33%;
   position: absolute;
-  margin-left: 3px;
+  margin-left: -1px;
 }
 .orTittle {
   top: -35%;
