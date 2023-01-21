@@ -97,10 +97,10 @@
 }
 
 .logo {
-  position: fixed;
+  position: absolute;
   background-color: transparent;
   top: -4%;
-  margin-top: 4px;
+  margin-top: 11px;
   left: 4%;
 }
 .top-icons {
@@ -169,19 +169,19 @@
   font-size: 23px;
 }
 .materialTittle {
-  top: 14%;
-  position: fixed;
-  margin-left: 15px;
+  top: -33%;
+  position: absolute;
+  margin-left: 3px;
 }
 .orTittle {
   top: -35%;
   position: relative;
-  margin-left: 7px;
+  margin-left: 1px;
 }
 
 .serviceTittle {
-  top: 14%;
-  position: fixed;
+  top: 5%;
+  position: absolute;
   margin-left: 15px;
 }
 
@@ -249,4 +249,11 @@ a:link {
   color: black;
   font-size: 12px;
   text-align: center;
+}
+.teste {
+  width: 50px;
+  height: 50px;
+  background-color: black;
+  top: 110%;
+  position: absolute;
 }
