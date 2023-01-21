@@ -1,1 +1,1 @@
-Este site está sendo desenvolvido para uma empresa de forros de pvc.
+Algumas alterações feitas no projeto para resolver alguns bugs;
